@@ -18,7 +18,7 @@ Link to the privacy policy of third-party service providers used by the app
 Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Which is highly unlikely but if we do, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-11-01
+This policy is effective as of 2022-02-20
 
 ## Contact Us
 
